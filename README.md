@@ -1,4 +1,4 @@
-Jag heter Theodor, jag är boendes i Norrtälje och studerar till Frontend-utvecklare.
+Jag heter Theodor, jag är boendes i Norrtälje och studerar till Frontend-utvecklare. Jag läser för närvarande HTML och CSS.
 
 <!---
 TheodorHe/TheodorHe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
